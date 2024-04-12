@@ -12,7 +12,7 @@
 2. pull results from Google form
 3. import the applications to our website
 
-### Committe:
+### Committe
 
 1. review the applications on the website
 2. vote on the committe portal
