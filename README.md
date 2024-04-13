@@ -24,6 +24,8 @@ Applications that recieved grants will be posted on the website.
 
 Applications will be submitted through Deform which is gated with NFT.
 
+NFT created with: https://opensea.io/
+
 Submission guide: tbd
 
 ## Smart Contract
