@@ -1,3 +1,9 @@
+## Links
+Test DAO:
+https://app.aragon.org/#/daos/sepolia/0xbb11f9f2be62af752a4b506ddc7db888827c42bf
+Main DAO:
+
+
 ## DAO Workflow
 
 ### Applicants
